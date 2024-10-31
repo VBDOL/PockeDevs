@@ -4,7 +4,7 @@
 Hey, devs!
 
 Neste repositório você encontrará uma página super elaborada criada para treinar
-e  melhorar suas habilidades em HTML, CSS e JavaScript. 
+e  melhorar habilidades em HTML, CSS e JavaScript. 
 
 
 
